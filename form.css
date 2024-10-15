@@ -1,0 +1,28 @@
+form{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+
+input{
+    background-color: #131516;
+    color: #c8cdd0;
+    border-width: 1px;
+
+}
+
+
+
+.button{
+    flex-direction: row;
+    width: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nomeeven{
+    width: 500px;
+    height: 22px;
+}
